@@ -27,18 +27,18 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RissN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RissN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117)
+![GitHub Streak](https://streak-stats.demolab.com?user=RissN&theme=tokyonight&hide_border=true&background=0D1117)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=6EE7B7&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=RissN&color=6EE7B7&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 
   <br/><br/>
 
