@@ -22,12 +22,16 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
 ## GitHub Stats
 
 <div align="center">
+
+![Snake](https://raw.githubusercontent.com/RissN/RissN/output/github-contribution-grid-snake-dark.svg)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=RissN&theme=tokyonight&hide_border=true&background=0D1117)
 
