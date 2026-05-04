@@ -31,8 +31,6 @@
 
 <div align="center">
 
-![Snake](https://raw.githubusercontent.com/RissN/RissN/output/github-contribution-grid-snake-dark.svg)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=RissN&theme=tokyonight&hide_border=true&background=0D1117)
 
 </div>
