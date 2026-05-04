@@ -20,16 +20,14 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white)
 
 ---
 
 ## GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RissN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RissN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=RissN&theme=tokyonight&hide_border=true&background=0D1117)
 
