@@ -34,7 +34,7 @@
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=RissN&theme=tokyonight&hide_border=true&background=0D1117)
+![GitHub Streak](https://github-activity-graph.vercel.app/graph?username=RissN&theme=tokyo-night&hide_border=true&bg_color=0D1117)
 
 </div>
 
